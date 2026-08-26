@@ -16,14 +16,13 @@ PROJECT-1 = Event registration webpage(HTML)
 
 PROJECT-2 = Restaurant Menu Card (HTML & CSS)
 
-1.Start by creating an HTML document.
-2.Add the webpage title using the <title> tag.
-3.Create the food items using <div>, <strong>, and <p> tags.
-4.Add a short description for each food item.
-5.Add the price of each food item using <span> tags.
-6.Add an offer using the <strong> tag.
-7.Add an Order Now link using the <a> tag.
-8.Create a separate CSS file and link it to the HTML using the <link> tag.
-9.Style the webpage using colors, fonts, margins, padding, borders, width, text alignment, and border-radius.
-10.Save the files as index.html and style.css.
-
+1. Start by creating an HTML document.
+2. Add the webpage title using the `<title>` tag.
+3. Create the food items using `<div>`, `<strong>`, and `<p>` tags.
+4. Add a short description for each food item.
+5. Add the price of each food item using `<span>` tags.
+6. Add an offer using the `<strong>` tag.
+7. Add an Order Now link using the `<a>` tag.
+8. Create a separate CSS file and link it to the HTML using the `<link>` tag.
+9. Style the webpage using colors, fonts, margins, padding, borders, width, text alignment, and border-radius.
+10. Save the files as `index.html` and `style.css`.
