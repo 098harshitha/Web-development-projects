@@ -26,3 +26,18 @@ PROJECT-2 = Restaurant Menu Card (HTML & CSS)
 8. Create a separate CSS file and link it to the HTML using the `<link>` tag.
 9. Style the webpage using colors, fonts, margins, padding, borders, width, text alignment, and border-radius.
 10. Save the files as `index.html` and `style.css`.
+
+
+PROJECT-3 = Tech zone (HTML & CSS)
+
+1. Create an HTML document and add the webpage title using `<title>`.
+2. Create a navigation bar using `<header>`, `<nav>`, `<h2>`, `<div>`, and `<a>`.
+3. Add Home, Products, About, and Contact navigation links.
+4. Create a hero section with a heading, paragraph, button, and laptop image.
+5. Create a products section with technology product cards.
+6. Add product names, descriptions, prices, and Buy Now buttons.
+7. Add a SALE badge and footer to the webpage.
+8. Create and link a separate `style.css` file.
+9. Use CSS for basic styling, Flexbox, Grid, and Positioning.
+10. Add Media Queries for responsive design and save the files as `index.html` and `style.css`.
+
