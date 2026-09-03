@@ -43,13 +43,22 @@ PROJECT-3 = Tech zone (HTML & CSS)
 
 PROJECT-4 = Age calculator(HTML,CSS,JS)
 
-1.Create an HTML document and add the webpage title using the <title> tag.
-2.Create an age calculator interface with a heading, description, age input field, and Calculate button.
-3.Create a result section to display the calculated age in years, months, weeks, and days.
-4.Create and link a separate style.css file for styling the webpage.
-5.Use CSS for colors, fonts, spacing, padding, borders, border-radius, and box-shadow.
-6.Add a hover effect to the Calculate button using the :hover pseudo-class.
-7.Create and link a separate script.js file to add functionality to the calculator.
-8.Use JavaScript variables, user input, and arithmetic operators to perform the calculations.
-9.Convert the entered age from years into approximate months, weeks, and days using JavaScript.
-10.Use DOM methods such as getElementById() and textContent to display the calculated results on the webpage.
+1. Create an HTML document and add the webpage title using the `<title>` tag.
+
+2. Create an age calculator interface with a heading, description, age input field, and Calculate button.
+
+3. Create a result section to display the calculated age in years, months, weeks, and days.
+
+4. Create and link a separate `style.css` file for styling the webpage.
+
+5. Use CSS for colors, fonts, spacing, padding, borders, border-radius, and box-shadow.
+
+6. Add a hover effect to the Calculate button using the `:hover` pseudo-class.
+
+7. Create and link a separate `script.js` file to add functionality to the calculator.
+
+8. Use JavaScript variables, user input, and arithmetic operators to perform the calculations.
+
+9. Convert the entered age from years into approximate months, weeks, and days using JavaScript.
+
+10. Use DOM methods such as `getElementById()` and `textContent` to display the calculated results on the webpage.
