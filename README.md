@@ -41,24 +41,29 @@ PROJECT-3 = Tech zone (HTML & CSS)
 9. Use CSS for basic styling, Flexbox, Grid, and Positioning.
 10. Add Media Queries for responsive design and save the files as `index.html` and `style.css`.
 
+
 PROJECT-4 = Age calculator(HTML,CSS,JS)
-
 1. Create an HTML document and add the webpage title using the `<title>` tag.
-
 2. Create an age calculator interface with a heading, description, age input field, and Calculate button.
-
 3. Create a result section to display the calculated age in years, months, weeks, and days.
-
 4. Create and link a separate `style.css` file for styling the webpage.
-
 5. Use CSS for colors, fonts, spacing, padding, borders, border-radius, and box-shadow.
-
 6. Add a hover effect to the Calculate button using the `:hover` pseudo-class.
-
 7. Create and link a separate `script.js` file to add functionality to the calculator.
-
 8. Use JavaScript variables, user input, and arithmetic operators to perform the calculations.
-
 9. Convert the entered age from years into approximate months, weeks, and days using JavaScript.
-
 10. Use DOM methods such as `getElementById()` and `textContent` to display the calculated results on the webpage.
+
+# PROJECT-5— Count Numbers (HTML, CSS, JavaScript)
+
+1. Create an HTML document and add a counter display using the `<label>` tag.
+2. Create `Decrease, Increase, and Reset` buttons using the `<button>` tag.
+3. Group the buttons inside a `<div>` container for proper alignment.
+4. Create and link a separate `style.css` file for styling the webpage.
+5. Use CSS for fonts, colors, font-size, padding, spacing, borders, and border-radius.
+6. Use CSS `transition` and the `:hover` pseudo-class to add button hover effects.
+7. Create and link a separate `script.js` file to add functionality to the counter.
+8. Use JavaScript variables and DOM methods such as `getElementById()` to access the HTML elements.
+9. Use increment (`++`) and decrement (`--`) operators to increase and decrease the counter value.
+10. Use `textContent` to update the counter display and reset the value to `0` using JavaScript.
+
