@@ -67,3 +67,10 @@ PROJECT-4 = Age calculator(HTML,CSS,JS)
 9. Use increment (`++`) and decrement (`--`) operators to increase and decrease the counter value.
 10. Use `textContent` to update the counter display and reset the value to `0` using JavaScript.
 
+RANDOM NUMBER GENERATOR(HTML,CSS,JS)
+
+1. Created a ROLLBUTTON with a  `button` and three result labels.
+2. Used JavaScript `Math.random()` and `Math.floor()` to generate random numbers from **1 to 6**.
+3. Used `document.getElementById()` to access HTML elements.
+4. Used `onclick` to generate new numbers whenever the button is clicked.
+5. Used `.textContent` to display the three dice results on the webpage.
